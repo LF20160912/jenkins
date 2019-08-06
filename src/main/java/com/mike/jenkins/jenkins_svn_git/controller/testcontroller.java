@@ -12,6 +12,6 @@ public class testcontroller {
     @GetMapping
     public  String sayHello()
     {
-        return  "Hello Jenkins";
+        return  "Hello Jenkins ！！！我要搭建成功";
     }
 }
